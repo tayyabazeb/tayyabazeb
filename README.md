@@ -15,10 +15,6 @@ When I'm not crafting new screens or battling stubborn bugs, you’ll probably f
 - Dart (Flutter 💙)
 - MATLAB
 
----
-
-## 🤓 Fun Fact
-I’m *portable*! You can take me (and my code) anywhere — kind of like a universal charger but more fun.
 
 ---
 
